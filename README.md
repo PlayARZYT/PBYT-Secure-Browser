@@ -6,3 +6,5 @@ https://drive.google.com/file/d/17jQNSTd-qq3txU7FavA-vnBtDAm4-a8B/view?usp=shari
 Manual Download (Which is NOT Recommended):
 https://drive.google.com/file/d/1O6NzAQQ16TnrfzL71wqloetJvZZtJqen/view?usp=sharing
 NOTE: If you want to download it manually, you will find the .exe file in the dist folder.
+
+Which means if you will download Source Code, it will just download this README.md file.
