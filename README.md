@@ -8,3 +8,5 @@ https://drive.google.com/file/d/1O6NzAQQ16TnrfzL71wqloetJvZZtJqen/view?usp=shari
 NOTE: If you want to download it manually, you will find the .exe file in the dist folder.
 
 Which means if you will download Source Code, it will just download this README.md file.
+
+Soon, a new version will be avaliable with more features!
